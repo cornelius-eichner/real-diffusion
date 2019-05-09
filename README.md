@@ -1,4 +1,11 @@
- Authors: Cornelius Eichner (ceichner@cbs.mpg.de), Stephen Cauley (stcauley@nmr.mgh.harvard.edu)
+This Software Package can be employed to perform phase correction of complex diffusion weighted MRI data to gain increased diffusion contrast due to Gaussian background noise [Eichner C et al., 2015]. 
+
+An example of how to use the software and some toy data can be found in the example.m file.
+
+This is a reasearch software. Therefore, it may not be used for clinical or commercial applications. 
+
+
+Authors: Cornelius Eichner (ceichner@cbs.mpg.de), Stephen Cauley (stcauley@nmr.mgh.harvard.edu)
  Copyright (c) 2018 Martinos Center for Biomedical Imaging (MC)
        
       Permission is hereby granted, free of charge, to any non-commercial entity
