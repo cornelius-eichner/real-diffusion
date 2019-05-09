@@ -5,8 +5,7 @@ An example of how to use the software and some toy data can be found in the exam
 This is a reasearch software. Therefore, it may not be used for clinical or commercial applications. 
 
 
-Authors: Cornelius Eichner (ceichner@cbs.mpg.de), Stephen Cauley (stcauley@nmr.mgh.harvard.edu)
- Copyright (c) 2018 Martinos Center for Biomedical Imaging (MC)
+Authors: Cornelius Eichner (ceichner@cbs.mpg.de), Stephen Cauley, Kawin Setsompop, Copyright (c) 
        
       Permission is hereby granted, free of charge, to any non-commercial entity
       ('Recipient') obtaining a copy of this software and associated
@@ -26,9 +25,9 @@ Authors: Cornelius Eichner (ceichner@cbs.mpg.de), Stephen Cauley (stcauley@nmr.m
       OTHERWISE, ARISING FROM, OUT OF ORIN CONNECTION WITH THE SOFTWARE OR THE
       USE OR OTHER DEALINGS IN THE SOFTWARE. 
        
-        3. In no event shall the Authors or MC be liable for direct, indirect, special,
+        3. In no event shall the authors or involved reasearch institutions be liable for direct, indirect, special,
       incidental or consequential damages in connection with the Software.
-      Recipient will defend, indemnify and hold MC harmless from any claims or
+      Recipient will defend, indemnify and hold the authors or involved reasearch institutions harmless from any claims or
       liability resulting from the use of the Software by recipient. 
        
       4. Neither anything contained herein nor the delivery of the Software to
