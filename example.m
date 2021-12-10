@@ -29,7 +29,7 @@ Img_Mag = double(Mag.img);
 
 %Process phase data to be within [0 2*pi]
 Img_Pha = Img_Pha-min(Img_Pha(:));
-Img_Pha = 2*pi/4095 * Img_Pha;
+Img_Pha = 2*pi/4096 * Img_Pha;
 
 %Make complex dataset
 Img_Comp = double(Img_Mag .* exp(1i * Img_Pha));
